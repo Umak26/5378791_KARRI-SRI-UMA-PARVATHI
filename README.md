@@ -1,14 +1,29 @@
-# 5378791 - KARRI SRI UMA PARVATHI
+# 5378791 - Karri Sri Uma Parvathi
 
-Welcome to my repository for SDLC and Git tasks.
+This is my submission for SDLC and Git tasks.
 
-## Contents
-- `SDLC/Task.txt`: Explanation of Software Development Life Cycle.
-- `GIT/Task.txt`: Basic Git concepts and commands.
-- Screenshots and project PDFs attached inside folders.
+---
 
-## Purpose
-This repository is part of the Great Learning program. It demonstrates:
-- Version control with Git
-- SDLC understanding
-- GitHub usage
+## SDLC
+
+**Task File:**  
+[Click here to view Task.txt](./SDLC/Task.txt)
+
+**Screenshot:**  
+![Screenshot](./SDLC/sdlc_screenshot1.png)
+
+**PDF Report:**  
+[Click here to view PDF](./SDLC/sdlc_report.pdf)
+
+---
+
+## GIT
+
+**Task File:**  
+[Click here to view Task.txt](./GIT/Task.txt)
+
+**Screenshot:**  
+![Screenshot](./GIT/git_screenshot1.png)
+
+**PDF Report:**  
+[Click here to view PDF](./GIT/git_report.pdf)
