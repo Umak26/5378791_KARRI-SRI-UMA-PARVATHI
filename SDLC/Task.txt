@@ -1,0 +1,11 @@
+Task - SDLC (Software Development Life Cycle)
+
+1. SDLC stands for Software Development Life Cycle.
+2. It includes steps like:
+   - Requirement gathering
+   - Design
+   - Development
+   - Testing
+   - Deployment
+   - Maintenance
+3. These steps help to build quality software.
