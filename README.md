@@ -11,6 +11,9 @@ Screenshot (Agile Quiz Score):
 
 GIT
 
+Task File:  
+[Click to view Task.txt](./GIT/Task.txt)
+
 Git Certificate (PDF):  
 [View PDF](./GIT/Simpllearn%20Git%20Certificate.pdf)
 
