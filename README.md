@@ -9,7 +9,7 @@ Task File:
 A text file describing the Software Development Life Cycle phases and process.
 
 Screenshot (Agile Quiz Score):  
-[Agile Quiz Score](./SDLC/Agile%20Quiz%20Score%20.png)  
+![Agile Quiz Score](./SDLC/Agile%20Quiz%20Score%20.png)  
 This screenshot shows my score from the Agile quiz taken during the SDLC task.
 
 GIT
@@ -23,9 +23,9 @@ Git Certificate (PDF):
 Official Git course completion certificate from Simplilearn in PDF format.
 
 Git Certificate (Image):  
-[Git Certificate](./GIT/Simpllearn%20Git%20Certificate.png)  
+![Git Certificate](./GIT/Simpllearn%20Git%20Certificate.png)  
 An image version of the Simplilearn Git certificate.
 
 Confirmation Mail:  
-[Confirmation Mail](./GIT/conformation%20mail%20.png)  
+![Confirmation Mail](./GIT/conformation%20mail%20.png)  
 Screenshot of the email confirming my Git course completion.
