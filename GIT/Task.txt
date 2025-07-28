@@ -1,0 +1,13 @@
+Task - Git Basics
+
+1. Git is a distributed version control system used to track code changes.
+2. Common Git commands:
+   - git init
+   - git clone
+   - git status
+   - git add
+   - git commit
+   - git push
+   - git pull
+3. GitHub is a remote platform to host Git repositories.
+4. Git helps in team collaboration and version management.
