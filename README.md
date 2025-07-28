@@ -1,29 +1,21 @@
-# 5378791 - Karri Sri Uma Parvathi
-
+5378791 - Karri Sri Uma Parvathi
 This is my submission for SDLC and Git tasks.
 
----
+SDLC
 
-## SDLC
+Task File:  
+[Click to view Task.txt](./SDLC/Task.txt)
 
-**Task File:**  
-[Click here to view Task.txt](./SDLC/Task.txt)
+Screenshot (Agile Quiz Score):  
+![Agile Quiz Score](./SDLC/Agile%20Quiz%20Score%20.png)
 
-**Screenshot:**  
-![Screenshot](./SDLC/sdlc_screenshot1.png)
+GIT
 
-**PDF Report:**  
-[Click here to view PDF](./SDLC/sdlc_report.pdf)
+Git Certificate (PDF):  
+[View PDF](./GIT/Simpllearn%20Git%20Certificate.pdf)
 
----
+Git Certificate (Image):  
+![Git Certificate](./GIT/Simpllearn%20Git%20Certificate.png)
 
-## GIT
-
-**Task File:**  
-[Click here to view Task.txt](./GIT/Task.txt)
-
-**Screenshot:**  
-![Screenshot](./GIT/git_screenshot1.png)
-
-**PDF Report:**  
-[Click here to view PDF](./GIT/git_report.pdf)
+Confirmation Mail:  
+![Confirmation Mail](./GIT/conformation%20mail%20.png)
