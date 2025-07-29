@@ -25,13 +25,13 @@ Official Git course completion certificate from Simplilearn in PDF format.
 Git Certificate (Image):  
 ![Git Certificate](./GIT/Simpllearn%20Git%20Certificate.png)  
 
-LINUX
-This section contains screenshots of my terminal commands performed for the Linux task.
-And Commands lists.
-
-
 An image version of the Simplilearn Git certificate.
 
 Confirmation Mail:  
 ![Confirmation Mail](./GIT/conformation%20mail%20.png)  
 Screenshot of the email confirming my Git course completion.
+
+
+LINUX
+This section contains screenshots of my terminal commands performed for the Linux task.
+And Commands lists.
