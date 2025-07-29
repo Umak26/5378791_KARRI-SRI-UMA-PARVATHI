@@ -33,5 +33,6 @@ Screenshot of the email confirming my Git course completion.
 
 
 LINUX
+
 This section contains screenshots of my terminal commands performed for the Linux task.
 And Commands lists.
