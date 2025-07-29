@@ -39,8 +39,8 @@ Task File:
 -Commands lists.
 
 This section contains screenshots of my terminal commands performed for the Linux task.
-Screenshots 
 
+Screenshots :  
 ![Linux Terminal History 1](./Linux/linux%20terminal%20history%201.png)
 
 ![TimeTravel Directory History 2](./Linux/Timetravel%20DATE%20history%202.png)
