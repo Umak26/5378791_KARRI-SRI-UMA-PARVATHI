@@ -26,11 +26,6 @@ Git Certificate (Image):
 ![Git Certificate](./GIT/Simpllearn%20Git%20Certificate.png)  
 
 
-## GIT - Linux Terminal Commands
-
-![Terminal Screenshot 1](./GIT/Linux_Terminal/terminal1.png)  
-![Terminal Screenshot 2](./GIT/Linux_Terminal/terminal2.png)
-
 An image version of the Simplilearn Git certificate.
 
 Confirmation Mail:  
