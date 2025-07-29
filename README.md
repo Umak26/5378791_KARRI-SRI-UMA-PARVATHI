@@ -32,19 +32,19 @@ Confirmation Mail:
 Screenshot of the email confirming my Git course completion.
 
 
-LINUX
+Linux
 
 Task File:  
 [Click to view Task.txt](./Linux/text.txt)  
--Commands lists.
+- Commands list.
 
-This section contains screenshots of my terminal commands performed for the Linux task.
+[View Linux Commands PDF](./Linux/Linux_Commands.pdf)  
+- PDF document containing all Linux terminal commands used.
 
-Screenshots :  
-![Linux Terminal History 1](./Linux/linux%20terminal%20history%201.png)
+This section contains screenshots of my terminal commands performed for the Linux task:
 
+![Linux Terminal History 1](./Linux/linux%20terminal%20history%201.png)  
 ![TimeTravel Directory History 2](./Linux/Timetravel%20DATE%20history%202.png)
-
 
 
 
