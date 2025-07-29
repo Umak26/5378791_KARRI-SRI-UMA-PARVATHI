@@ -1,0 +1,68 @@
+# Check if directory exists
+ls
+
+# Make a new directory named TimeTravel
+mkdir TimeTravel
+
+# Change directory into TimeTravel
+cd TimeTravel
+
+# Create a new file
+touch mission.txt
+
+# List files inside the directory
+ls
+
+# Open file using a text editor (if available)
+nano mission.txt
+
+# Display contents of the file
+cat mission.txt
+
+# Add content to a file
+echo "Our mission is to practice Linux commands." > mission.txt
+
+# Append content to an existing file
+echo "This is line 2" >> mission.txt
+
+# Clear the terminal
+clear
+
+# Display current working directory
+pwd
+
+# Show who is logged in
+whoami
+
+# Show system date and time
+date
+
+# Create a new directory inside current folder
+mkdir Practice
+
+# Move into that new directory
+cd Practice
+
+# Create a file inside Practice folder
+echo "This is inside Practice folder" > inside.txt
+
+# Display content of inside.txt
+cat inside.txt
+
+# Go back to parent folder
+cd ..
+
+# Move a file into another directory
+mv mission.txt Practice/
+
+# List all files, including hidden ones
+ls -la
+
+# Show calendar
+cal
+
+# Save all commands used so far into a file
+history > linux_history.txt
+
+# Verify that the history file was created
+ls
