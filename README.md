@@ -45,10 +45,10 @@ Task File:
 List of terminal commands used.
 
 Linux Commands Summary:  
-[View Linux_Commands.pdf](./Linux/Linux_Commands.pdf)
+[View Linux_Commands 1.pdf](./Linux/Linux_Commands.pdf)
 
 Linux Tasks Combined Report:  
-[View Linux_Tasks.pdf](./Linux/Linux_Commands_2.pdf)
+[View Linux_Commands 2.pdf](./Linux/Linux_Commands_2.pdf)
 
 Terminal History Screenshots:
 
