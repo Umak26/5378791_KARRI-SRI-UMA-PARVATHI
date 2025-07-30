@@ -48,7 +48,7 @@ Linux Commands Summary:
 [View Linux_Commands.pdf](./Linux/Linux_Commands.pdf)
 
 Linux Tasks Combined Report:  
-[View Linux_Tasks.pdf](./Linux/Linux_Tasks.pdf)
+[View Linux_Tasks.pdf](./Linux/Linux_Commands_2.pdf)
 
 Terminal History Screenshots:
 
