@@ -70,7 +70,9 @@ Command Execution Screenshots:
 ![Command 2 Screenshot 11](./Linux/Command%202%20screen%20short%2011.png)
 
 
-SOLOLEARN
 
-Certificate jpg:  
-![Intoduction to C](./C/Sololearn Introduction of C.jpg)
+C
+
+Certificate: Introduction to C (SOLOLEARN)
+![Introduction to C](./C/Sololearn%20Introduction%20of%20C.jpg)
+
