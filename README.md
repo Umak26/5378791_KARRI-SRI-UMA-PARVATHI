@@ -72,3 +72,5 @@ Command Execution Screenshots:
 
 SOLOLEARN
 
+Certificate jpg:  
+![Intoduction to C](./C/Sololearn Introduction of C.jpg)
