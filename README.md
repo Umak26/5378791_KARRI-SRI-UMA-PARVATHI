@@ -76,3 +76,8 @@ C
 Certificate: Introduction to C (SOLOLEARN)
 ![Introduction to C](./C/Sololearn%20Introduction%20of%20C.jpg)
 
+
+Certificate (PDF)
+[View.pdf](./C/Sololearn%20Introduction%20of%20C.pdf)
+
+
